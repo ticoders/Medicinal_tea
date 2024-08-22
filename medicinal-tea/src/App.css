@@ -1,0 +1,103 @@
+.App {
+  font-family: 'Rajdhani', sans-serif;
+  background-color: yellowgreen;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.instructions {
+  margin: 10px 0;
+}
+
+.disclaimer {
+  font-style: italic;
+  color: #888;
+}
+
+.submit-button, .restart-button {
+  background-color: #f4a300;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.submit-button:hover, .restart-button:hover {
+  background-color: #e08a00;
+}
+
+img {
+  max-width: 100px;
+  border-radius: 5px;
+}
+
+.Question {
+  margin: 20px 0;
+}
+
+.button-group {
+  margin: 10px 0;
+}
+
+.answer-button {
+  background-color: #b5841d;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 5px;
+}
+
+.answer-button:hover {
+  background-color: #8c4f1f;
+}
+
+.Question img {
+  max-width: 150px;
+  margin-top: 10px;
+}
+
+.Result {
+  margin-top: 20px;
+}
+
+.tea-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tea-item {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tea-item img {
+  max-width: 100px;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+}
+
+.tea-item h3 {
+  margin: 10px 0 5px;
+}
+
+.tea-item p {
+  margin: 5px 0;
+}

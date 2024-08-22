@@ -1,0 +1,39 @@
+
+.Question {
+    font-family: 'Rajdhani', sans-serif;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .button-group {
+    margin: 10px 0;
+  }
+  
+  .answer-button {
+    background-color: #b5841d;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+  }
+  
+  .answer-button:hover {
+    background-color: #8c4f1f;
+  }
+  
+  .question-image {
+    max-width: 150px;
+    margin-top: 10px;
+    height: 120px;
+  }
+  
