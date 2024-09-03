@@ -43,8 +43,8 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <h1>What Medicinal Drink Do You Need? 🍵</h1>
-        <p className="instructions">Answer the following questions to discover the best medicinal tea for you.</p>
-        <p className="disclaimer">This quiz is for fun and not medical advice. Consult a healthcare professional for any health issues.</p>
+        <p className="instructions">Answer the following questions to discover the best medicinal tea for you. Feel free to mix the teas for a medicinal drink.</p>
+        <p className="disclaimer">This quiz is simply a suggestion and not medical advice. Consult a healthcare professional for any health issues.</p>
         {!submitted ? (
           <Question
             question={questions[currentQuestion]}

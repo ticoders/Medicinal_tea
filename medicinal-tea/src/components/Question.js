@@ -11,7 +11,7 @@ const Question = ({ question, handleAnswer }) => {
         <button onClick={() => handleAnswer('No')} className="answer-button">No</button>
       </div>
     
-      <img src={`../tea/chamomile.jpg`} alt="Tea" className="question-image"/>
+      <img src={`../tea/chamomileone.jpeg`} alt="Tea" className="question-image"/>
     </div>
   );
 };
