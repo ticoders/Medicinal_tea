@@ -1,16 +1,23 @@
-Medicinal Tea Quiz
-The Medicinal Tea Quiz is a web app that helps users discover medicinal teas based on their health goals and preferences. After answering a few quick questions, users receive personalized tea recommendations suited to their needs.
+ # 🌿 Medicinal Tea Quiz
 
-Live Demo
-Try the quiz here: Medicinal Tea Quiz
+Welcome to the **Medicinal Tea Quiz**, a simple and interactive web app designed to recommend medicinal teas based on your wellness goals and preferences. After answering a few quick questions, you'll receive personalized tea suggestions to match your needs.
 
-Technologies Used
-HTML for structure
-CSS for styling
-JavaScript for interactivity
-How to Use
-Answer the questions in the quiz.
-Get your personalized medicinal tea recommendation!
-Future Plans
-Add more tea options and quiz questions.
-Improve UI design for a better user experience.
+## 🌐 Live Demo
+
+Check it out here: [Medicinal Tea Quiz](https://medicinalteaquiz.netlify.app/)
+
+## 🚀 Technologies Used
+
+- **HTML5** - For structuring the quiz interface
+- **CSS3** - For designing a clean, responsive layout
+- **JavaScript** - To handle quiz logic and recommendations
+
+## 💡 How It Works
+
+1. Complete the quiz by answering questions about your health and taste preferences.
+2. Receive personalized medicinal tea recommendations tailored to your answers.
+
+## 🔮 Future Enhancements
+
+- Expanding the quiz with more tea options and health benefits.
+- Improving the overall user interface for a better experience.
