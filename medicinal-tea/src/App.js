@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Question from './components/Question';
 import Result from './components/Result';
 import './App.css';
+ 
 
 const questions = [
   { id: 1, text: "Feeling a bit under the weather?" },
@@ -57,6 +58,9 @@ const App = () => {
           </>
         )}
       </header>
+      <footer className="footer">
+        <p>Copyright Tea Idiong (they/he)</p>
+      </footer>
     </div>
   );
 };
